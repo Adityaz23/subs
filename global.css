@@ -17,6 +17,15 @@
   --color-destructive: #ef4444; /* softer red */
   --color-subscription: #a7f3d0; /* soft mint */
 
+  /* fonts :- */
+  --font-sans:sans-regular;
+  --font-sans-light:sans-light;
+  --font-sans-bold:sans-bold;
+  --font-sans-extrabold:sans-extrabold;
+  --font-sans-medium:sans-medium;
+  --font-sans-semibold:sans-semibold;
+
+
   --spacing-0: 0px;
   --spacing-1: 4px;
   --spacing-2: 8px;
