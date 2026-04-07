@@ -34,6 +34,19 @@
             "imageWidth": 76
           }
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts":[
+            "./assets/fonts/PlusJakatraSans-Bold.ttf",
+            "./assets/fonts/PlusJakatraSans-Light.ttf",
+            "./assets/fonts/PlusJakatraSans-Medium.ttf",
+            "./assets/fonts/PlusJakatraSans-ExtraBold.ttf",
+            "./assets/fonts/PlusJakatraSans-SemiBold.ttf",
+            "./assets/fonts/PlusJakatraSans-Regular.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
